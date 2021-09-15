@@ -6,4 +6,4 @@ yum makecache
 sudo yum install mdatp -y
 wget https://alicesap.blob.core.windows.net/suseiso/MicrosoftDefenderATPOnboardingLinuxServer.py
 sudo chmod +x MicrosoftDefenderATPOnboardingLinuxServer.py
-sudo python3 MicrosoftDefenderATPOnboardingLinuxServer.py
+sudo python MicrosoftDefenderATPOnboardingLinuxServer.py
